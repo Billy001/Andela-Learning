@@ -1,6 +1,6 @@
-############################################################
-# Google Africa Developer Scholarship #
-############################################################
+
+# Google Africa Developer Scholarship 
+
 
 
 Hi! 
